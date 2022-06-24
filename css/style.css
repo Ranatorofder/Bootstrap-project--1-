@@ -19,13 +19,8 @@
     margin-top: 200px;
 }
 
-.galleary {
-    /* background-color: #f2d7d5; */
-}
-
 .section-banner {
     background-image: url("../images/hot-air-balloon-2411851.jpg");
-    /* height: 221px; */
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
@@ -34,9 +29,7 @@
 
 }
 
-.about-bottom {
-    margin-top: 300px;
-}
+
 
 .testimonial {
     background-color: black;

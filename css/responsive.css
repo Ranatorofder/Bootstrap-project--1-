@@ -13,7 +13,7 @@
         margin-right: 80px;
     }
 
-    .pricing .card {
+    .pricing .cards {
         margin: 20px auto;
     }
 
@@ -24,6 +24,15 @@
     .contact .contact-left {
         margin: 20px auto;
     }
+
+    .intut-h {
+        font-size: 14px;
+    }
+
+    .frequently {
+        font-size: 15px;
+    }
+
 }
 
 @media screen and (max-width:575px) {
