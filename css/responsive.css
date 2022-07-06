@@ -1,4 +1,8 @@
 @media screen and (max-width:767px) {
+    .slider-images {
+        width: 100%;
+        height: 540px;
+    }
 
     .service .service-text {
         margin-bottom: 30px;
